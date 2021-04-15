@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jopelemos
-- 👀 I’m interested in Technology
+- 👀 I’m interested in EdTech
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: jopelemos@gmail.com
