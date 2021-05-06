@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jopelemos
+- 👋 Hi, I’m @jplemosx
 - 👀 I’m interested in EdTech
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on cool projects
